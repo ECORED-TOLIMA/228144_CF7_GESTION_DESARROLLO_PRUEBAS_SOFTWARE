@@ -49,7 +49,7 @@
       .row.justify-content-center
         .col-10
           figure.desktop
-            img(src='@/assets/curso/tema2/img03.svg', alt='Figura 4 que muestra la estructura básica de una base de datos relacional, donde se representan las tablas de clientes, productos y ventas. El esquema evidencia el uso de llaves primarias para identificar registros y llaves secundarias o foráneas para establecer relaciones entre las tablas, permitiendo la integridad y coherencia de los datos dentro del sistema.')
+            img(src='@/assets/curso/tema2/img03.svg', alt='La figura 4 presenta la estructura básica de una base de datos relacional, donde se encuentran las tablas de clientes, productos y ventas. El esquema evidencia el uso de llaves primarias para identificar registros y llaves foráneas para establecer relaciones entre las tablas, permitiendo la integridad y coherencia de los datos dentro del sistema.')
       .col-auto.movil
         a.anexo.mb-0(:href="obtenerLink('/downloads/Anexo_Representacion_de_una_estructura_basica_de_una_base_de_datos_relacional.pdf')" target="_blank")
           .anexo__icono
